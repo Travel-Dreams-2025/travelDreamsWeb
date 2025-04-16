@@ -17,14 +17,14 @@ El objetivo principal del proyecto es ofrecer a los usuarios una experiencia de 
 
 ## Integrantes:
 
-Cantarino, Emmanuel  
-Cascallares, Facundo  
-Fernandez, Claudio Ranses  
-González, Natalia  
-Navarrete, Romina Gabriela  
-Oro, Elias  
-Ortiz, Fernando Ariel   
-Soto Valenzuela, Juan Gabriel  
+Cantarino, Emmanuel
+Cascallares, Facundo
+Fernandez, Claudio Ranses
+Luna Dalla Lasta, Marcelo Javier
+Navarrete, Romina Gabriela
+Nobiltá, Ivette Jael
+Ñañez, Nahir Nicolás
+Soto Valenzuela, Juan Gabriel
 
 
 ![travel_dreams_front](https://github.com/TravelDreams2024/ISPC2024/assets/45200064/ad03b552-ba52-49b8-9bb9-36955ba119d6)
